@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/imkrrish/imkrrish.github.io/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  https://imkrrish.github.io/
 </h1>
 <p align="center">
   My Personal Poetfolio website <a href="https://imkrrish.github.io/" target="_blank">https://imkrrish.github.io/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
