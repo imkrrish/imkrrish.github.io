@@ -1,6 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/imkrrish.github.io',
   siteMetadata: {
     title: 'Krishan Kumar',
     description:
