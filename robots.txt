@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://imkrrish.github.io/imkrrish.github.io/sitemap/sitemap-index.xml
+Sitemap: https://imkrrish.github.io/sitemap/sitemap-index.xml
 Host: https://imkrrish.github.io
