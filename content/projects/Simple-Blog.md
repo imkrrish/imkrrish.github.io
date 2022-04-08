@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A Simple Blog-post website. We can add, edit and delete blog-posts.
+A Blog-post website. We can add, edit and delete blog-posts.

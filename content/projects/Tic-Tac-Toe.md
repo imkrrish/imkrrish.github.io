@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-A simple Tic Tac Toe game built with C++. Using the concepts of Obeject Oriented Programming.
+A Tic Tac Toe game built with C++. Using the concepts of Obeject Oriented Programming.

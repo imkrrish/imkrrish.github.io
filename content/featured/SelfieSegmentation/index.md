@@ -9,6 +9,6 @@ tech:
   - MediaPipe
 ---
 
-A simple React app that can add virtual background to a live video stream in the browser.
-We choose the background from our device storage.
-To remove the background from the live camera feed uses MediaPipe Selfie Segmentation.
+A React app that can add virtual background to a live video stream in the browser.
+We can choose the background from our device storage.
+To remove the background from the live camera feed used MediaPipe Selfie Segmentation.
