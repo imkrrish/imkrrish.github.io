@@ -60,18 +60,21 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Krishan Kumar.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">Crafting seamless and scalable web experiences.</h3>;
   const four = (
     <>
       <p>
-        A passionate Full Stack Web Developer having an experience of building Web applications with
-        JavaScript / TypeScript / Reactjs / Nextjs / Nodejs / MongoDB and some other cool libraries and frameworks.
+        I’m a passionate <strong>Full Stack Web Developer</strong> with expertise in designing and
+        developing <strong>high-performance web applications</strong> using
+        <strong> JavaScript, TypeScript, React.js, Next.js, Node.js, and MongoDB</strong>. I love
+        creating <strong>scalable, user-friendly, and modern web solutions</strong> that enhance
+        user experience.
       </p>
     </>
   );
   const five = (
     <a className="email-link" href="mailto:imkrrish227@gmail.com" target="_blank" rel="noreferrer">
-      Get In Touch
+      Let’s build something amazing together!
     </a>
   );
 
