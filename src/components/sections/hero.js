@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         A passionate Full Stack Web Developer having an experience of building Web applications with
-        JavaScript / Reactjs / Nextjs / Nodejs / MongoDB and some other cool libraries and frameworks.
+        JavaScript / TypeScript / Reactjs / Nextjs / Nodejs / MongoDB and some other cool libraries and frameworks.
       </p>
     </>
   );
