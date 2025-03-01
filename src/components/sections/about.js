@@ -151,11 +151,11 @@ const About = () => {
               pixel-perfect, performant experiences.
             </p>
 
-            <p>
+            {/* <p>
               Currently, I am pursuing my <strong>B.Tech</strong> in{' '}
               <strong>Computer Science</strong> from
               <strong> Rajasthan Technical University</strong>.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
